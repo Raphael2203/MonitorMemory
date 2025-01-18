@@ -31,7 +31,8 @@ Este projeto é um script em Python para monitorar o uso de memória RAM em seu 
 Execute o script `monitor_memory.py` para iniciar o monitoramento de memória:
 ```sh
 python monitor_memory.py
-Contribuição
+
+## Contribuição
 Sinta-se à vontade para contribuir com melhorias para este projeto. Para contribuir:
 
 Faça um fork deste repositório.
@@ -46,9 +47,6 @@ Abra um Pull Request.
 
 Licença
 Este projeto é licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-Contato
-Seu Nome - Seu Email
 
 Link do Projeto: https://github.com/Raphael2203/MonitorMemory
 
